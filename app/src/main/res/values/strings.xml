@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login App - Compose</string>
+    <string name="user_input">Type your email</string>
+    <string name="password_input">Type your password</string>
+    <string name="confirm_input">Confirm your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="has_account">Already have an account?</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="welcome_msg">Welcome Back!</string>
+    <string name="welcome_msg2">It\'s a pleasure to have you here!</string>
+</resources>
